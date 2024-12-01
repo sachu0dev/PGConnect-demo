@@ -13,7 +13,7 @@ const page = () => {
         </h1>
       </div>
       <h3 className="text-[#60C3AD] text-3xl md:text-6xl font-bold">
-        Cooming Soon...
+        Coming Soon...
       </h3>
     </div>
   );
